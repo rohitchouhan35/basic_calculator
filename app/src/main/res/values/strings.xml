@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Calculator_</string>
+    <string name="todo">TODO</string>
+    <string name="c">C</string>
+    <string name="hash">#</string>
+    <string name="slash">/</string>
+</resources>
